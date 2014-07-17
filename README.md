@@ -8,7 +8,7 @@ akamai_stage_ip -- determine akamai stage IP
 
  
 USAGE
-
+=====
 positional arguments:
   path           paths to folder(s) with source file(s) [default: None]
 
