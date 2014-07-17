@@ -1,3 +1,8 @@
 #!/bin/bash
 
-python ../src/akamai_stage_ip.py $@
+
+SCRIPT=$(readlink -f $0)
+SCRIPTPATH=`dirname $SCRIPT`
+
+MY_PATH=$SCRIPTPATH
+python $MY_PATH/../src/akamai_stage_ip.py $@
