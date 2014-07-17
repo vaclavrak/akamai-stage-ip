@@ -6,15 +6,7 @@ usage: akamai_stage_ip.py [-h] [-c] [-V] path [path ...]
 
 akamai_stage_ip -- determine akamai stage IP
 
-  Created by user_name on 2014-07-17.
-  Copyright 2014 organization_name. All rights reserved.
-
-  Licensed under the Apache License 2.0
-  http://www.apache.org/licenses/LICENSE-2.0
-
-  Distributed on an "AS IS" basis without warranties
-  or conditions of any kind, either express or implied.
-
+ 
 USAGE
 
 positional arguments:
