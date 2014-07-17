@@ -1,18 +1,18 @@
-akamai-stage-ip
-===============
+#akamai-stage-ip
 
-simple script dermine akamai network stage IP
-usage: akamai_stage_ip.py [-h] [-c] [-V] path [path ...]
 
-akamai_stage_ip -- determine akamai stage IP
+simple script dermine akamai domain network stage IP
+usage: akamai_stage_ip.py [-h] [-c] [-V] domain [domain ...]
+
+akamai_stage_ip -- determine akamai domain stage IP
 
  
-USAGE
-=====
-positional arguments:
-  path           paths to folder(s) with source file(s) [default: None]
+##USAGE
 
-optional arguments:
-  -h, --help     show this help message and exit
-  -c, --csv      CSV response
-  -V, --version  show program's version number and exit
+### positional arguments:
+ * path           paths to folder(s) with source file(s) [default: None]
+ 
+###optional arguments:
+ * -h, --help     show this help message and exit
+ * -c, --csv      CSV response
+ * -V, --version  show program's version number and exit
